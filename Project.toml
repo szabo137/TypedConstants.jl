@@ -1,0 +1,7 @@
+name = "TypedConstants"
+uuid = "c74e7c09-47e8-59e3-8a36-b530e340759b"
+authors = ["Uwe Hernandez Acosta <u.hernandez@hzdr.de>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"

@@ -1,0 +1,35 @@
+# Changes here will be overwritten by Copier
+AddAllcontributors: false
+AddCitationCFF: false
+AddCodeOfConduct: false
+AddCompatHelperCI: true
+AddContributionDocs: false
+AddCopierCI: false
+AddDependabot: false
+AddDocs: true
+AddDocsCI: true
+AddFormatterAndLinterConfigFiles: false
+AddGitHubPRTemplate: false
+AddGitHubTemplates: false
+AddLintCI: false
+AddLychee: false
+AddMacToCI: false
+AddTagBotCI: true
+AddTestCI: true
+AddWinToCI: false
+Authors: Uwe Hernandez Acosta <u.hernandez@hzdr.de>
+CheckExplicitImports: false
+JuliaMinCIVersion: lts
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Uwe Hernandez Acosta
+PackageName: TypedConstants
+PackageOwner: szabo137
+PackageUUID: c74e7c09-47e8-59e3-8a36-b530e340759b
+RunJuliaNightlyOnCI: false
+StrategyConfirmIncluded: true
+StrategyLevel: 1
+StrategyReviewExcluded: true
+TestingStrategy: basic
+UseCirrusCI: false
+_src_path: /Users/uwe/.julia/packages/BestieTemplate/53KEa
