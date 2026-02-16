@@ -80,11 +80,11 @@ The `@typed_const` macro generates:
 
 | Feature                        | TypedConstants.jl | Base.@irrational | PhysicalConstants.jl |
 | ------------------------------ | ----------------- | ---------------- | -------------------- |
-| Automatic precision conversion | ✓                 | ✓                | ✗                    |
-| Type-safe (no piracy)          | ✓                 | ✗                | ✓                    |
-| Custom types per constant      | ✓                 | ✗                | ✓                    |
-| Common supertype               | ✓                 | ✓ (Irrational)   | ✓                    |
-| Implicit casting               | ✓                 | ✓                | ✗                    |
+| Automatic precision conversion | ✅                | ✅               | ❌                  |
+| Type-safe (no piracy)          | ✅                | ❌               | ✅                  |
+| Custom types per constant      | ✅                | ❌               | ✅                  |
+| Common supertype               | ✅                | ✅ (Irrational)  | ✅                  |
+| Implicit casting               | ✅                | ✅               | ❌                  |
 
 ## License
 
