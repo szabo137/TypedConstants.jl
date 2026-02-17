@@ -85,6 +85,8 @@ The `@typed_const` macro generates:
 | Custom types per constant      | ✅                | ❌               | ✅                  |
 | Common supertype               | ✅                | ✅ (Irrational)  | ✅                  |
 | Implicit casting               | ✅                | ✅               | ❌                  |
+| `Unitful` support              | ❌                | ❌               | ✅                  |
+| `Measurements` support         | ❌                | ❌               | ✅                  |
 
 ## License
 
